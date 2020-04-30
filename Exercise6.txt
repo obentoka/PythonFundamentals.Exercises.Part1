@@ -1,0 +1,2 @@
+python fahrenheit_to_celsius.py
+32 degrees fahrenheit is equal to 0.0 degrees(s) celsius
